@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">To-Do</string>
+    <string name="add">Add</string>
+    <string name="sortBy">Sort By</string>
+    <string name="listContent">To Do List</string>
+    <string name="enterTitle">Title</string>
+    <string name="hintTitle">Enter Your Title</string>
+    <string name="enterDescription">Description</string>
+    <string name="hintNote">Enter Your Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="addDate">Date Created </string>
+    <string name="editDate">Updated at : </string>
+    <string name="addAlert">Add New Task </string>
+    <string name="editAlert">Edit Item</string>
+    <string name="deadline">Due to: </string>
+    <string name="addDeadline">Pick Date</string>
+    <string name="addTimeDeadline">Pick Time</string>
+    <string name="editDeadline">Edit Date</string>
+    <string name="editTimeDeadline">Edit Time</string>
+</resources>
